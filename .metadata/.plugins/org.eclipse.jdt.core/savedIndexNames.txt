@@ -1,0 +1,3 @@
+INDEX VERSION 1.129+/agh/zaisd/zaisd-lab/.metadata/.plugins/org.eclipse.jdt.core
+1571501549.index
+3298976855.index
